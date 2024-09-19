@@ -7,6 +7,6 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=zzangorc99)](https://solved.ac/profile/zzangorc99)
 
-My PortFolio is "https://parkminsoo99.github.io/"
+- 📝[이력서](https://legend-slayer-c27.notion.site/Minsoo-Park-106040f00d4280478ca5e7e557035eb1?pvs=4)
+- 📑[포트폴리오](https://parkminsoo99.github.io/)
 
-Please let me know if you guys have any question.
